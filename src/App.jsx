@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import LandingPage from './components/LandingPage'
 import Marqee from './components/Marqee'
 import About from './components/About'
