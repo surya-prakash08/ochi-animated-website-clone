@@ -25,6 +25,10 @@ const locomotiveScroll = new LocomotiveScroll();
       <FeaturedProjects/>
       <Cards/>
       <Footer/>
+
+      <div className="author flex justify-center items-center"><h1 className='font-semibold text-2xl h-20 '>
+        Made with &#x2764; by Surya Prakash
+        </h1></div>
     </div>
   )
 }

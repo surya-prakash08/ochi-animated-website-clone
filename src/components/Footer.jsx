@@ -32,7 +32,9 @@ function Footer() {
             <a href="#">Twitter</a> <br />
         </div>
       </div>
+      
     </div>
+    
   )
 }
 
