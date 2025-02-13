@@ -3,7 +3,7 @@ import { FaArrowUpLong } from "react-icons/fa6";
 function About() {
   return (
     <div className='w-full p-20  bg-[#CDEA68] rounded-tl-3xl rounded-tr-3xl text-black'>
-      <h1 className="font-['Neue_Montreal'] text-[3.9vw] leading-[4vw] tracking-normal">Ochi is    a strategic presentation agency for forward-thinking businesses that need to raise funds, sell prod­ucts, ex­plain com­plex ideas, and hire great peo­ple.</h1>
+      <h1 className="font-['Neue_Montreal'] text-[3.9vw] leading-[4vw] tracking-normal">Ochi is    a strategic presentation agency for forward-thinking businesses that need to raise funds, sell prod­ucts, ex­plain com­plex ideass, and hire great peo­ple.</h1>
 
       <div className='flex gap-5 w-full pt-10 border-t-[1px] mt-20 border-[#a1b562]'>
         <div className='w-1/2 '>
